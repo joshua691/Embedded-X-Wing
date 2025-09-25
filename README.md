@@ -10,13 +10,13 @@ This project includes:
 
 ## Features
 - Current:
--- 4 custom hinges designed and printed in Fusion 360
--- Breadboard circuits tested for motor power delivery
--- Structural integration with motors for automated wing actuation
+  - 4 custom hinges designed and printed in Fusion 360
+  - Breadboard circuits tested for motor power delivery
+  - Structural integration with motors for automated wing actuation
 - Planned:
--- Object sensing using sensors connected to ESP32
--- OLED display for system feedback and status
--- Expanded embedded features for interactive flight simulation
+  - Object sensing using sensors connected to ESP32
+  - OLED display for system feedback and status
+  - Expanded embedded features for interactive flight simulation
 
 ## Tools & Technologies
 - **Hardware:** ESP32, Arduino, embedded components (motors, sensors, OLED display), 3D-printed hinges
