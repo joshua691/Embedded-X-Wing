@@ -14,9 +14,9 @@ This project includes:
   - Breadboard circuits tested for motor power delivery
   - Structural integration with motors for automated wing actuation
 - Planned:
-  - Object sensing using sensors connected to ESP32
-  - OLED display for system feedback and status
-  - Expanded embedded features for interactive flight simulation
+  - Makeshift targeting system with distance sensor and OLED display
+  - Wheels and stepper motors for movement
+  - Controller with displays, steering control stick, buttons for various effects, etc.
 
 ## Tools & Technologies
 - **Hardware:** ESP32, Arduino, embedded components (motors, sensors, OLED display), 3D-printed hinges
