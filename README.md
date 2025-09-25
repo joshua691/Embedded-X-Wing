@@ -1,5 +1,7 @@
 # Embedded X-Wing
 
+# Status: In Progress
+
 A cardboard model of the X-Wing from *Star Wars*, including integrated embedded system components and 3D-printed parts. this project demonstrates embedded programming, embedded model design, and CAD modeling with Fusion 360.
 
 ## Overview
@@ -23,7 +25,7 @@ This project includes:
 - **Software:** Fusion 360, Arduino IDE, C++
 - **Other:** Breadboard prototyping
 
-## Results
+## Results (so far)
 - Strengthened cardboard frame with 3D-printed hinges and mounted motors
 - Enabled automated wing movement
 - Created modular design ready for integration of sensors and interactive features
